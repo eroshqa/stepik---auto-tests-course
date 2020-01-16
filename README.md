@@ -1,4 +1,5 @@
 # stepik---auto-tests-course
 Off course homework repository
 
-Link course : https://stepik.org/lesson/187065
+Хранилище заданий по курсу Автоматизация тестирования с помощью Selenium и Python
+Ссылка на курс : https://stepik.org/lesson/187065
